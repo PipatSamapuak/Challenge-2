@@ -35,3 +35,23 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 
 THEN I am presented with a responsive layout that adapts to my viewport
+
+# Grading Requirement 
+
+None
+
+# Review
+
+The URL of the deployed application.
+
+
+The URL of the GitHub repository, with a unique name and a README that describes the project.
+
+
+Example pictures of website
+
+
+
+# License
+
+Please review the license in repo
