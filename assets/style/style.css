@@ -1,3 +1,4 @@
+ /* Navigation arrangement */
 .topNav {
     list-style-type: none;
     margin: 0;
@@ -24,8 +25,14 @@
     background-color: #111;
   }
 
+/* Specify type of display in each section */
 #AboutMe {
     display: block;
+}
+
+.Title_image {
+  width: 200px;
+  height: 200px; 
 }
 
 .frame {
