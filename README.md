@@ -43,14 +43,20 @@ None
 # Review
 
 The URL of the deployed application.
+https://pipatsamapuak.github.io/Challenge-2-Portfolio-Pipat/
 
 
 The URL of the GitHub repository, with a unique name and a README that describes the project.
+https://github.com/PipatSamapuak/Challenge-2-Portfolio-Pipat
 
 
-Example pictures of website
+# Example pictures of website
 
+<img width="421" alt="Screenshot 2566-03-06 at 15 18 41" src="https://user-images.githubusercontent.com/107624639/223026969-2f35eae4-39e5-47ca-ae8d-512d5c600f51.png">
 
+<img width="424" alt="Screenshot 2566-03-06 at 15 18 53" src="https://user-images.githubusercontent.com/107624639/223026978-39ca5631-37e9-4629-8c0f-41405f3170dc.png">
+
+<img width="433" alt="Screenshot 2566-03-06 at 15 19 03" src="https://user-images.githubusercontent.com/107624639/223026985-75362e15-fade-4f6c-9889-160950551283.png">
 
 # License
 
